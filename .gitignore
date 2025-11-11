@@ -1,2 +1,4 @@
 # Ignore Python virtual environment
 .nfd-venv/
+Numerical Fluid Dynamics/
+.DS_Store
